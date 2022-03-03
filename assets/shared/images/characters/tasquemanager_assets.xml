@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tasquemanager_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tasquemanager down0000" x="0" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0001" x="0" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0002" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0003" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0004" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0005" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0006" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0007" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0008" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0009" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager down0010" x="556" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0000" x="1112" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0001" x="1112" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0002" x="1668" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0003" x="1668" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0004" x="2224" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0005" x="2224" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0006" x="2780" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0007" x="3336" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0008" x="3336" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0009" x="3336" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0010" x="3336" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0011" x="3336" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0012" x="3336" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager idle0013" x="3336" y="0" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0000" x="0" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0001" x="0" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0002" x="556" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0003" x="556" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0004" x="556" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0005" x="556" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0006" x="556" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0007" x="556" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0008" x="556" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager left0009" x="556" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0000" x="1112" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0001" x="1112" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0002" x="1668" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0003" x="1668" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0004" x="1668" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0005" x="1668" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0006" x="1668" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0007" x="1668" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager right0008" x="1668" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0000" x="2224" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0001" x="2224" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0002" x="2780" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0003" x="2780" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0004" x="2780" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0005" x="2780" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0006" x="2780" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0007" x="2780" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0008" x="2780" y="666" width="556" height="666"/>
+	<SubTexture name="tasquemanager up0009" x="2780" y="666" width="556" height="666"/>
+</TextureAtlas>
