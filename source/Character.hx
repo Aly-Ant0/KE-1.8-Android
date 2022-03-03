@@ -82,6 +82,21 @@ class Character extends FlxSprite
 				updateHitbox();
 				antialiasing = false;
 
+                       case 'tasque':
+				// DAD ANIMATION LOADING CODE
+				tex = Paths.getSparrowAtlas('tasquemanager_assets', 'shared', true);
+				frames = tex;
+				animation.addByPrefix('idle', 'tasquemanager idle', 24, false);
+				animation.addByPrefix('singUP', 'tasquemanager up', 24, false);
+				animation.addByPrefix('singRIGHT', 'tasquemanager right', 24, false);
+				animation.addByPrefix('singDOWN', 'tasquemanager down', 24, false);
+				animation.addByPrefix('singLEFT', 'tasquemanager left', 24, false);
+
+				loadOffsetFile(curCharacter);
+				barColor = 0xFFaf66ce;
+
+				playAnim('idle');
+
 			case 'dad':
 				// DAD ANIMATION LOADING CODE
 				tex = Paths.getSparrowAtlas('DADDY_DEAREST', 'shared', true);
